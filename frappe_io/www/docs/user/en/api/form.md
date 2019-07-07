@@ -1,5 +1,14 @@
-<!-- base_template: frappe_io/www/frappe/frappe_base.html -->
-<!-- add-breadcrumbs -->
+---
+title: Form Scripts
+base_template: frappe_io/www/frappe/frappe_base.html
+add_breadcrumbs: 1
+metatags:
+ description: >
+  Form Scripts lets you add client side logic to
+  your Forms. You can write Form Scripts for automatically fetching values,
+  adding validation or adding contextual actions to your Form.
+---
+
 # Form Scripts
 
 Form Scripts lets you add client side logic to your Forms. You can write Form
